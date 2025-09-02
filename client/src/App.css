@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.btn-hover:hover {
+    bottom: 1px;
+    right: 1px;
+}
